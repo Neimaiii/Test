@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Sample Suite" duration-ms="18" started-at="2017-09-22T01:25:05Z" finished-at="2017-09-22T01:25:05Z">
+    <groups>
+    </groups>
+    <test name="basicjenkins" duration-ms="18" started-at="2017-09-22T01:25:05Z" finished-at="2017-09-22T01:25:05Z">
+      <class name="demo.practise">
+        <test-method status="PASS" signature="hello()" name="hello" duration-ms="9" started-at="2017-09-22T01:25:05Z" finished-at="2017-09-22T01:25:05Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

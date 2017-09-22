@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Nitin" name="demo.practise" tests="1" failures="0" timestamp="22 Sep 2017 05:25:05 GMT" time="0.018" errors="0">
+  <testcase name="hello" time="0.009" classname="demo.practise"/>
+</testsuite>
