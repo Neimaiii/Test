@@ -11,7 +11,7 @@ public class practise {
 	public void hello()
 	{
 		
-		System.out.println("hello from jenkins");
+		System.out.println("hello from  new jenkins");
 	}
 
 }
