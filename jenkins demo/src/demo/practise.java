@@ -12,7 +12,7 @@ public class practise {
 	{
 		
 		System.out.println("hello from  new jenkins");
-		System.out.println("hello from  new jenkins2");
+		System.out.println("hello from  nitika branch");
 	}
 
 }
